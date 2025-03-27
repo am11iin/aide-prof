@@ -21,6 +21,7 @@ body {
     font-size: 25px;
     background-color: transparent;
     border: none;
+    cursor: pointer;
     box-shadow: none;
     top: 15px;
     left: 15px;
